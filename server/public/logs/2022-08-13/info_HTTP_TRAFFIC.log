@@ -1,0 +1,214 @@
+
+2022-08-13T01:20:25.201Z ::1 GET /api/v2/products/search/suggest?keyword=
+2022-08-13T01:20:25.216Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2022-08-13T01:20:25.232Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2022-08-13T01:20:25.236Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2022-08-13T01:20:25.264Z ::1 GET /search/suggest?keyword= (200)
+2022-08-13T01:20:25.288Z ::1 GET /?fields=name%20slug%20image (200)
+2022-08-13T01:20:25.299Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (200)
+2022-08-13T01:20:25.426Z ::1 GET /?fields=name%20slug%20image (200)
+2022-08-13T01:20:26.163Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2022-08-13T01:20:26.517Z ::1 GET /api/v2/products/best-seller
+2022-08-13T01:20:26.586Z ::1 GET /best-seller (200)
+2022-08-13T01:20:26.683Z ::1 GET /?search=&page=1&limit=20&b=&c= (200)
+2022-08-13T01:20:33.269Z ::1 POST /api/v2/auth/google
+2022-08-13T01:20:33.747Z ::1 POST /google (200)
+2022-08-13T01:20:34.911Z ::1 POST /api/v2/cart
+2022-08-13T01:20:34.974Z ::1 POST / (200)
+2022-08-13T01:20:35.007Z ::1 GET /api/v2/products/best-seller
+2022-08-13T01:20:35.068Z ::1 GET /best-seller (304)
+2022-08-13T01:20:59.212Z ::1 GET /api/v2/products/best-seller
+2022-08-13T01:20:59.275Z ::1 GET /best-seller (304)
+2022-08-13T01:21:39.869Z ::1 POST /api/v2/auth/google
+2022-08-13T01:21:40.248Z ::1 POST /google (200)
+2022-08-13T01:21:40.735Z ::1 POST /api/v2/cart
+2022-08-13T01:21:40.783Z ::1 POST / (200)
+2022-08-13T01:21:41.714Z ::1 GET /api/v2/products?search=&b=&c=
+2022-08-13T01:21:41.722Z ::1 GET /api/v2/products/all
+2022-08-13T01:21:41.733Z ::1 GET /api/v2/brands
+2022-08-13T01:21:41.741Z ::1 GET /api/v2/categories
+2022-08-13T01:21:41.751Z ::1 GET /api/v2/users/customer
+2022-08-13T01:21:41.757Z ::1 GET /api/v2/orders/manager/?search=&status=&paymentStatus=&page=1&limit=100000
+2022-08-13T01:21:41.804Z ::1 GET /customer (200)
+2022-08-13T01:21:41.837Z ::1 GET / (200)
+2022-08-13T01:21:41.932Z ::1 GET /manager/?search=&status=&paymentStatus=&page=1&limit=100000 (200)
+2022-08-13T01:21:41.934Z ::1 GET /api/v2/orders/manager/?search=&status=&paymentStatus=&page=1&limit=100000
+2022-08-13T01:21:41.944Z ::1 GET / (200)
+2022-08-13T01:21:42.136Z ::1 GET /manager/?search=&status=&paymentStatus=&page=1&limit=100000 (304)
+2022-08-13T01:21:42.198Z ::1 GET /?search=&b=&c= (200)
+2022-08-13T01:21:42.205Z ::1 GET /api/v2/products?search=&b=&c=
+2022-08-13T01:21:42.853Z ::1 GET /?search=&b=&c= (304)
+2022-08-13T01:21:45.279Z ::1 GET /all (200)
+2022-08-13T01:21:45.283Z ::1 GET /api/v2/products/all
+2022-08-13T01:21:48.887Z ::1 GET /all (304)
+2022-08-13T01:21:48.890Z ::1 GET /api/v2/products/all
+2022-08-13T01:21:53.207Z ::1 GET /all (304)
+2022-08-13T01:21:53.209Z ::1 GET /api/v2/products/all
+2022-08-13T01:21:57.091Z ::1 GET /all (304)
+2022-08-13T01:21:57.096Z ::1 GET /api/v2/products/all
+2022-08-13T01:22:00.676Z ::1 GET /all (304)
+2022-08-13T01:22:06.623Z ::1 GET /api/v2/products?search=&b=&c=
+2022-08-13T01:22:06.630Z ::1 GET /api/v2/products/all
+2022-08-13T01:22:06.635Z ::1 GET /api/v2/brands
+2022-08-13T01:22:06.638Z ::1 GET /api/v2/categories
+2022-08-13T01:22:06.644Z ::1 GET /api/v2/users/customer
+2022-08-13T01:22:06.650Z ::1 GET /api/v2/orders/manager/?search=&status=&paymentStatus=&page=1&limit=100000
+2022-08-13T01:22:06.706Z ::1 GET /customer (304)
+2022-08-13T01:22:06.727Z ::1 GET / (304)
+2022-08-13T01:22:06.805Z ::1 GET /manager/?search=&status=&paymentStatus=&page=1&limit=100000 (304)
+2022-08-13T01:22:06.811Z ::1 GET /api/v2/orders/manager/?search=&status=&paymentStatus=&page=1&limit=100000
+2022-08-13T01:22:06.872Z ::1 GET / (304)
+2022-08-13T01:22:07.064Z ::1 GET /?search=&b=&c= (304)
+2022-08-13T01:22:07.070Z ::1 GET /manager/?search=&status=&paymentStatus=&page=1&limit=100000 (304)
+2022-08-13T01:22:07.073Z ::1 GET /api/v2/products?search=&b=&c=
+2022-08-13T01:22:07.987Z ::1 GET /?search=&b=&c= (304)
+2022-08-13T01:22:10.042Z ::1 GET /all (304)
+2022-08-13T01:22:10.055Z ::1 GET /api/v2/products/all
+2022-08-13T01:22:13.094Z ::1 GET /all (304)
+2022-08-13T01:22:14.236Z ::1 GET /api/v2/account
+2022-08-13T01:22:14.337Z ::1 GET / (200)
+2022-08-13T01:22:14.679Z ::1 POST /api/v2/cart
+2022-08-13T01:22:14.689Z ::1 GET /api/v2/products/search/suggest?keyword=
+2022-08-13T01:22:14.712Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2022-08-13T01:22:14.716Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2022-08-13T01:22:14.719Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2022-08-13T01:22:14.734Z ::1 POST / (200)
+2022-08-13T01:22:14.749Z ::1 GET /search/suggest?keyword= (304)
+2022-08-13T01:22:14.764Z ::1 GET /?fields=name%20slug%20image (304)
+2022-08-13T01:22:14.770Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2022-08-13T01:22:14.884Z ::1 GET /?fields=name%20slug%20image (304)
+2022-08-13T01:22:14.946Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2022-08-13T01:22:15.352Z ::1 GET /?search=&page=1&limit=20&b=&c= (304)
+2022-08-13T01:22:16.048Z ::1 GET /api/v2/products/best-seller
+2022-08-13T01:22:16.113Z ::1 GET /best-seller (304)
+2022-08-13T01:22:27.559Z ::1 GET /api/v2/products/iphone-13-mini?fields=_id%20name%20slug%20desc%20video%20overSpecs%20policies%20detailSpecs%20origin%20category%20brand%20tags%20views%20rate%20variants%20quantity%20warrantyPeriod%20isHide%20createdAt%20updatedAt
+2022-08-13T01:22:27.752Z ::1 GET /iphone-13-mini?fields=_id%20name%20slug%20desc%20video%20overSpecs%20policies%20detailSpecs%20origin%20category%20brand%20tags%20views%20rate%20variants%20quantity%20warrantyPeriod%20isHide%20createdAt%20updatedAt (200)
+2022-08-13T01:22:29.946Z ::1 POST /api/v2/cart/add
+2022-08-13T01:22:30.188Z ::1 POST /add (200)
+2022-08-13T01:22:31.774Z ::1 GET /api/v2/account/addresses
+2022-08-13T01:22:31.867Z ::1 GET /addresses (200)
+2022-08-13T01:22:34.418Z ::1 POST /api/v2/user-behavior
+2022-08-13T01:22:34.422Z ::1 POST / (200)
+2022-08-13T01:22:38.948Z ::1 POST /api/v2/orders
+2022-08-13T01:22:39.349Z ::1 POST / (200)
+2022-08-13T01:22:39.473Z ::1 DELETE /api/v2/cart/d00000000000000000000009/0000000000393
+2022-08-13T01:22:39.663Z ::1 DELETE /d00000000000000000000009/0000000000393 (200)
+2022-08-13T01:23:22.853Z ::1 GET /api/v1/payment/vnpay/callback?vnp_Amount=2199000000&vnp_BankCode=NCB&vnp_BankTranNo=VNP13816333&vnp_CardType=ATM&vnp_OrderInfo=%7B%22orderId%22%3A%2262f6fcde4125634857a0dc9c%22%2C%22clientUrl%22%3A%22http%3A%2F%2Flocalhost%3A3000%22%7D&vnp_PayDate=20220813082316&vnp_ResponseCode=00&vnp_TmnCode=QL509E3K&vnp_TransactionNo=13816333&vnp_TransactionStatus=00&vnp_TxnRef=080839&vnp_SecureHash=54f9020bd69652033681805d1a01358678c88845846ca1b3f9e7a0f9564c16e59b1fa6753e7033a9dc6393296c0be8d6882a1167934c8e864a14723cd0521489
+2022-08-13T01:23:23.021Z ::1 GET /vnpay/callback?vnp_Amount=2199000000&vnp_BankCode=NCB&vnp_BankTranNo=VNP13816333&vnp_CardType=ATM&vnp_OrderInfo=%7B%22orderId%22%3A%2262f6fcde4125634857a0dc9c%22%2C%22clientUrl%22%3A%22http%3A%2F%2Flocalhost%3A3000%22%7D&vnp_PayDate=20220813082316&vnp_ResponseCode=00&vnp_TmnCode=QL509E3K&vnp_TransactionNo=13816333&vnp_TransactionStatus=00&vnp_TxnRef=080839&vnp_SecureHash=54f9020bd69652033681805d1a01358678c88845846ca1b3f9e7a0f9564c16e59b1fa6753e7033a9dc6393296c0be8d6882a1167934c8e864a14723cd0521489 (200)
+2022-08-13T01:23:26.557Z ::1 GET /api/v2/account
+2022-08-13T01:23:26.658Z ::1 GET / (304)
+2022-08-13T01:23:27.021Z ::1 GET /api/v2/products/search/suggest?keyword=
+2022-08-13T01:23:27.028Z ::1 POST /api/v2/cart
+2022-08-13T01:23:27.035Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2022-08-13T01:23:27.040Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2022-08-13T01:23:27.047Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2022-08-13T01:23:27.070Z ::1 GET /search/suggest?keyword= (304)
+2022-08-13T01:23:27.073Z ::1 POST / (200)
+2022-08-13T01:23:27.091Z ::1 GET /?fields=name%20slug%20image (304)
+2022-08-13T01:23:27.096Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2022-08-13T01:23:27.206Z ::1 GET /?fields=name%20slug%20image (304)
+2022-08-13T01:23:27.741Z ::1 GET /api/v2/orders/62f6fcde4125634857a0dc9c
+2022-08-13T01:23:27.830Z ::1 GET /62f6fcde4125634857a0dc9c (200)
+2022-08-13T02:58:02.396Z ::1 GET /api/v2/products/search/suggest?keyword=i
+2022-08-13T02:58:02.893Z ::1 GET /search/suggest?keyword=i (200)
+2022-08-13T02:58:05.145Z ::1 GET /api/v2/products/search/suggest?keyword=iP
+2022-08-13T02:58:05.215Z ::1 GET /search/suggest?keyword=iP (200)
+2022-08-13T02:58:05.517Z ::1 GET /api/v2/products/search/suggest?keyword=iPh
+2022-08-13T02:58:05.535Z ::1 GET /api/v2/products/search/suggest?keyword=iPho
+2022-08-13T02:58:05.569Z ::1 GET /search/suggest?keyword=iPh (200)
+2022-08-13T02:58:05.851Z ::1 GET /search/suggest?keyword=iPho (200)
+2022-08-13T02:58:05.899Z ::1 GET /api/v2/products/search/suggest?keyword=iPhon
+2022-08-13T02:58:05.981Z ::1 GET /search/suggest?keyword=iPhon (200)
+2022-08-13T02:58:06.206Z ::1 GET /api/v2/products/search/suggest?keyword=iPhone
+2022-08-13T02:58:06.278Z ::1 GET /search/suggest?keyword=iPhone (200)
+2022-08-13T02:58:16.037Z ::1 GET /api/v2/products/search/suggest?keyword=iPhon
+2022-08-13T02:58:16.067Z ::1 GET /api/v2/products/search/suggest?keyword=iPho
+2022-08-13T02:58:16.108Z ::1 GET /search/suggest?keyword=iPhon (200)
+2022-08-13T02:58:16.122Z ::1 GET /search/suggest?keyword=iPho (304)
+2022-08-13T02:58:16.246Z ::1 GET /api/v2/products/search/suggest?keyword=iPh
+2022-08-13T02:58:16.293Z ::1 GET /search/suggest?keyword=iPh (304)
+2022-08-13T02:58:16.440Z ::1 GET /api/v2/products/search/suggest?keyword=iP
+2022-08-13T02:58:16.494Z ::1 GET /search/suggest?keyword=iP (304)
+2022-08-13T02:58:16.503Z ::1 GET /api/v2/products/search/suggest?keyword=i
+2022-08-13T02:58:16.548Z ::1 GET /search/suggest?keyword=i (304)
+2022-08-13T02:58:16.699Z ::1 GET /api/v2/products/search/suggest?keyword=
+2022-08-13T02:58:16.746Z ::1 GET /search/suggest?keyword= (304)
+2022-08-13T02:58:57.632Z ::1 GET /api/v2/account
+2022-08-13T02:58:57.749Z ::1 GET / (304)
+2022-08-13T02:58:58.446Z ::1 GET /api/v2/products/search/suggest?keyword=
+2022-08-13T02:58:58.454Z ::1 POST /api/v2/cart
+2022-08-13T02:58:58.463Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2022-08-13T02:58:58.474Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2022-08-13T02:58:58.480Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2022-08-13T02:58:58.496Z ::1 GET /search/suggest?keyword= (304)
+2022-08-13T02:58:58.518Z ::1 POST / (200)
+2022-08-13T02:58:58.839Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2022-08-13T02:58:58.847Z ::1 GET /?fields=name%20slug%20image (304)
+2022-08-13T02:58:59.017Z ::1 GET /?fields=name%20slug%20image (304)
+2022-08-13T02:58:59.237Z ::1 GET /api/v2/orders?page=1&status=&paymentStatus=&limit=1000000000
+2022-08-13T02:58:59.376Z ::1 GET /?page=1&status=&paymentStatus=&limit=1000000000 (200)
+2022-08-13T02:59:46.111Z ::1 GET /api/v2/products/search/suggest?keyword=I
+2022-08-13T02:59:46.169Z ::1 GET /search/suggest?keyword=I (200)
+2022-08-13T02:59:46.481Z ::1 GET /api/v2/products/search/suggest?keyword=Ip
+2022-08-13T02:59:46.538Z ::1 GET /search/suggest?keyword=Ip (200)
+2022-08-13T02:59:47.439Z ::1 GET /api/v2/products/search/suggest?keyword=I
+2022-08-13T02:59:47.468Z ::1 GET /api/v2/products/search/suggest?keyword=
+2022-08-13T02:59:47.488Z ::1 GET /search/suggest?keyword=I (304)
+2022-08-13T02:59:47.520Z ::1 GET /search/suggest?keyword= (304)
+2022-08-13T02:59:48.621Z ::1 GET /api/v2/products/search/suggest?keyword=a
+2022-08-13T02:59:48.678Z ::1 GET /search/suggest?keyword=a (200)
+2022-08-13T02:59:48.877Z ::1 GET /api/v2/products/search/suggest?keyword=ac
+2022-08-13T02:59:48.951Z ::1 GET /search/suggest?keyword=ac (200)
+2022-08-13T02:59:49.145Z ::1 GET /api/v2/products/search/suggest?keyword=ace
+2022-08-13T02:59:49.191Z ::1 GET /search/suggest?keyword=ace (200)
+2022-08-13T02:59:49.210Z ::1 GET /api/v2/products/search/suggest?keyword=acer
+2022-08-13T02:59:49.265Z ::1 GET /search/suggest?keyword=acer (200)
+2022-08-13T03:04:31.924Z ::1 GET /api/v2/products/search/suggest?keyword=
+2022-08-13T03:04:31.929Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2022-08-13T03:04:31.935Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2022-08-13T03:04:31.939Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2022-08-13T03:04:31.985Z ::1 GET /?fields=name%20slug%20image (200)
+2022-08-13T03:04:31.988Z ::1 GET /search/suggest?keyword= (200)
+2022-08-13T03:04:32.313Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (200)
+2022-08-13T03:04:32.409Z ::1 GET /?fields=name%20slug%20image (200)
+2022-08-13T03:04:33.446Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2022-08-13T03:04:34.226Z ::1 GET /?search=&page=1&limit=20&b=&c= (200)
+2022-08-13T03:04:36.683Z ::1 GET /api/v2/products/best-seller
+2022-08-13T03:07:41.727Z ::1 POST /api/v2/auth/google
+2022-08-13T03:07:42.193Z ::1 POST /google (200)
+2022-08-13T03:07:42.981Z ::1 POST /api/v2/cart
+2022-08-13T03:07:43.046Z ::1 POST / (200)
+2022-08-13T03:07:44.520Z ::1 GET /api/v2/products?search=&b=&c=
+2022-08-13T03:07:44.524Z ::1 GET /api/v2/products/all
+2022-08-13T03:07:44.533Z ::1 GET /api/v2/brands
+2022-08-13T03:07:44.538Z ::1 GET /api/v2/categories
+2022-08-13T03:07:44.543Z ::1 GET /api/v2/users/customer
+2022-08-13T03:07:44.547Z ::1 GET /api/v2/orders/manager/?search=&status=&paymentStatus=&page=1&limit=100000
+2022-08-13T03:07:44.936Z ::1 GET / (200)
+2022-08-13T03:07:45.188Z ::1 GET /customer (200)
+2022-08-13T03:07:45.346Z ::1 GET / (200)
+2022-08-13T03:07:45.356Z ::1 GET /manager/?search=&status=&paymentStatus=&page=1&limit=100000 (200)
+2022-08-13T03:07:45.362Z ::1 GET /api/v2/orders/manager/?search=&status=&paymentStatus=&page=1&limit=100000
+2022-08-13T03:07:45.447Z ::1 GET /?search=&b=&c= (200)
+2022-08-13T03:07:45.450Z ::1 GET /api/v2/products?search=&b=&c=
+2022-08-13T03:07:45.505Z ::1 GET /manager/?search=&status=&paymentStatus=&page=1&limit=100000 (304)
+2022-08-13T03:07:45.854Z ::1 GET /?search=&b=&c= (304)
+2022-08-13T03:07:58.495Z ::1 GET /all (200)
+2022-08-13T03:07:58.505Z ::1 GET /api/v2/products/all
+2022-08-13T03:07:58.555Z ::1 GET /api/v2/products/all
+2022-08-13T03:08:09.532Z ::1 GET /all (304)
+2022-08-13T03:08:18.562Z ::1 GET /api/v2/products/all
+2022-08-13T03:08:18.581Z ::1 GET /api/v2/products/all
+2022-08-13T03:08:29.550Z ::1 GET /api/v2/products/all
+2022-08-13T03:08:33.343Z ::1 GET /all (200)
+2022-08-13T03:08:39.081Z ::1 GET /all (200)
+2022-08-13T03:08:43.960Z ::1 GET /all (200)
+2022-08-13T03:08:47.728Z ::1 GET /all (200)
+2022-08-13T03:42:14.313Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2022-08-13T03:42:14.597Z ::1 GET /api/v2/products/best-seller
+2022-08-13T03:42:14.714Z ::1 GET /best-seller (200)
+2022-08-13T03:42:15.004Z ::1 GET /?search=&page=1&limit=20&b=&c= (200)
+2022-08-13T03:45:41.657Z ::1 GET /api/v2/orders/manager/?search=&status=&paymentStatus=&page=1&limit=100000
+2022-08-13T03:45:41.829Z ::1 GET /manager/?search=&status=&paymentStatus=&page=1&limit=100000 (200)
+2022-08-13T03:46:02.165Z ::1 PATCH /api/v2/orders/manager/62f6fcde4125634857a0dc9c
+2022-08-13T03:46:02.642Z ::1 PATCH /manager/62f6fcde4125634857a0dc9c (200)

@@ -1,0 +1,143 @@
+
+2022-08-12T12:20:14.393Z ::1 GET /api/v2/account
+2022-08-12T12:20:14.566Z ::1 GET / (200)
+2022-08-12T12:20:15.294Z ::1 GET /api/v2/products/search/suggest?keyword=
+2022-08-12T12:20:15.306Z ::1 POST /api/v2/cart
+2022-08-12T12:20:15.532Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2022-08-12T12:20:15.541Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2022-08-12T12:20:15.545Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2022-08-12T12:20:15.556Z ::1 GET /search/suggest?keyword= (200)
+2022-08-12T12:20:15.586Z ::1 POST / (200)
+2022-08-12T12:20:15.614Z ::1 GET /?fields=name%20slug%20image (200)
+2022-08-12T12:20:15.621Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (200)
+2022-08-12T12:20:15.711Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2022-08-12T12:20:15.790Z ::1 GET /?fields=name%20slug%20image (200)
+2022-08-12T12:20:16.374Z ::1 GET /?search=&page=1&limit=20&b=&c= (200)
+2022-08-12T12:20:17.942Z ::1 GET /api/v2/products/best-seller
+2022-08-12T12:20:18.027Z ::1 GET /best-seller (200)
+2022-08-12T12:20:24.095Z ::1 GET /api/v2/products/best-seller
+2022-08-12T12:20:24.163Z ::1 GET /best-seller (304)
+2022-08-12T12:20:29.920Z ::1 POST /api/v2/auth/google
+2022-08-12T12:20:30.365Z ::1 POST /google (200)
+2022-08-12T12:20:32.204Z ::1 POST /api/v2/cart
+2022-08-12T12:20:32.249Z ::1 POST / (200)
+2022-08-12T12:20:32.278Z ::1 GET /api/v2/products/best-seller
+2022-08-12T12:20:32.346Z ::1 GET /best-seller (304)
+2022-08-12T12:20:39.247Z ::1 GET /api/v2/products/best-seller
+2022-08-12T12:20:39.310Z ::1 GET /best-seller (304)
+2022-08-12T12:20:49.676Z ::1 POST /api/v2/auth/google
+2022-08-12T12:20:50.101Z ::1 POST /google (200)
+2022-08-12T12:20:50.587Z ::1 POST /api/v2/cart
+2022-08-12T12:20:50.597Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2022-08-12T12:20:50.603Z ::1 GET /api/v2/products/search/suggest?keyword=
+2022-08-12T12:20:50.610Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2022-08-12T12:20:50.619Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2022-08-12T12:20:50.638Z ::1 POST / (200)
+2022-08-12T12:20:50.653Z ::1 GET /search/suggest?keyword= (304)
+2022-08-12T12:20:50.665Z ::1 GET /?fields=name%20slug%20image (304)
+2022-08-12T12:20:50.669Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2022-08-12T12:20:50.791Z ::1 GET /?fields=name%20slug%20image (304)
+2022-08-12T12:20:50.883Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2022-08-12T12:20:51.508Z ::1 GET /?search=&page=1&limit=20&b=&c= (304)
+2022-08-12T12:20:52.300Z ::1 GET /api/v2/products/best-seller
+2022-08-12T12:20:52.378Z ::1 GET /best-seller (304)
+2022-08-12T12:21:14.732Z ::1 GET /api/v2/products/iphone-12-mini?fields=_id%20name%20slug%20desc%20video%20overSpecs%20policies%20detailSpecs%20origin%20category%20brand%20tags%20views%20rate%20variants%20quantity%20warrantyPeriod%20isHide%20createdAt%20updatedAt
+2022-08-12T12:21:14.906Z ::1 GET /iphone-12-mini?fields=_id%20name%20slug%20desc%20video%20overSpecs%20policies%20detailSpecs%20origin%20category%20brand%20tags%20views%20rate%20variants%20quantity%20warrantyPeriod%20isHide%20createdAt%20updatedAt (200)
+2022-08-12T12:21:18.245Z ::1 POST /api/v2/cart/add
+2022-08-12T12:21:18.447Z ::1 POST /add (200)
+2022-08-12T12:21:21.654Z ::1 POST /api/v2/user-behavior
+2022-08-12T12:21:21.657Z ::1 POST / (200)
+2022-08-12T12:21:23.803Z ::1 PATCH /api/v2/cart
+2022-08-12T12:21:23.814Z ::1 PATCH /api/v2/cart
+2022-08-12T12:21:23.940Z ::1 PATCH /api/v2/cart
+2022-08-12T12:21:24.010Z ::1 PATCH / (200)
+2022-08-12T12:21:24.023Z ::1 PATCH / (200)
+2022-08-12T12:21:24.161Z ::1 PATCH /api/v2/cart
+2022-08-12T12:21:24.165Z ::1 PATCH / (200)
+2022-08-12T12:21:24.358Z ::1 PATCH /api/v2/cart
+2022-08-12T12:21:24.364Z ::1 PATCH / (200)
+2022-08-12T12:21:24.495Z ::1 PATCH /api/v2/cart
+2022-08-12T12:21:24.552Z ::1 PATCH / (200)
+2022-08-12T12:21:24.642Z ::1 PATCH /api/v2/cart
+2022-08-12T12:21:24.679Z ::1 PATCH / (200)
+2022-08-12T12:21:24.811Z ::1 PATCH /api/v2/cart
+2022-08-12T12:21:24.837Z ::1 PATCH / (200)
+2022-08-12T12:21:24.995Z ::1 PATCH /api/v2/cart
+2022-08-12T12:21:25.003Z ::1 PATCH / (200)
+2022-08-12T12:21:25.195Z ::1 PATCH / (200)
+2022-08-12T12:21:29.119Z ::1 GET /api/v2/account/addresses
+2022-08-12T12:21:29.209Z ::1 GET /addresses (200)
+2022-08-12T12:21:31.667Z ::1 POST /api/v2/user-behavior
+2022-08-12T12:21:31.677Z ::1 POST / (200)
+2022-08-12T12:23:11.660Z ::1 POST /api/v2/account/addresses
+2022-08-12T12:23:11.816Z ::1 POST /addresses (200)
+2022-08-12T12:23:21.013Z ::1 POST /api/v2/orders
+2022-08-12T12:23:21.436Z ::1 POST / (200)
+2022-08-12T12:23:21.577Z ::1 DELETE /api/v2/cart/d00000000000000000000003/0000000000329
+2022-08-12T12:23:21.767Z ::1 DELETE /d00000000000000000000003/0000000000329 (200)
+2022-08-12T12:23:31.674Z ::1 POST /api/v2/user-behavior
+2022-08-12T12:23:31.676Z ::1 POST / (200)
+2022-08-12T12:24:02.179Z ::1 POST /api/v2/cart
+2022-08-12T12:24:02.230Z ::1 POST / (200)
+2022-08-12T12:24:06.152Z ::1 GET /api/v2/account
+2022-08-12T12:24:06.244Z ::1 GET / (200)
+2022-08-12T12:24:06.533Z ::1 GET /api/v2/products/search/suggest?keyword=
+2022-08-12T12:24:06.538Z ::1 POST /api/v2/cart
+2022-08-12T12:24:06.545Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2022-08-12T12:24:06.548Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2022-08-12T12:24:06.550Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2022-08-12T12:24:06.578Z ::1 GET /search/suggest?keyword= (304)
+2022-08-12T12:24:06.585Z ::1 POST / (200)
+2022-08-12T12:24:06.594Z ::1 GET /?fields=name%20slug%20image (304)
+2022-08-12T12:24:06.597Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2022-08-12T12:24:06.734Z ::1 GET /?fields=name%20slug%20image (304)
+2022-08-12T12:24:14.177Z ::1 GET /api/v2/account
+2022-08-12T12:24:14.275Z ::1 GET / (304)
+2022-08-12T12:24:14.577Z ::1 GET /api/v2/products/search/suggest?keyword=
+2022-08-12T12:24:14.582Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2022-08-12T12:24:14.591Z ::1 POST /api/v2/cart
+2022-08-12T12:24:14.597Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2022-08-12T12:24:14.611Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2022-08-12T12:24:14.627Z ::1 GET /search/suggest?keyword= (304)
+2022-08-12T12:24:14.639Z ::1 POST / (200)
+2022-08-12T12:24:14.662Z ::1 GET /?fields=name%20slug%20image (304)
+2022-08-12T12:24:14.667Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2022-08-12T12:24:14.767Z ::1 GET /?fields=name%20slug%20image (304)
+2022-08-12T12:24:14.903Z ::1 GET /api/v2/orders?page=1&status=&paymentStatus=&limit=1000000000
+2022-08-12T12:24:14.994Z ::1 GET /?page=1&status=&paymentStatus=&limit=1000000000 (200)
+2022-08-12T12:24:35.297Z ::1 GET /api/v2/account
+2022-08-12T12:24:35.388Z ::1 GET / (304)
+2022-08-12T12:24:35.702Z ::1 GET /api/v2/products/search/suggest?keyword=
+2022-08-12T12:24:35.709Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2022-08-12T12:24:35.717Z ::1 POST /api/v2/cart
+2022-08-12T12:24:35.726Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2022-08-12T12:24:35.732Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2022-08-12T12:24:35.750Z ::1 GET /search/suggest?keyword= (304)
+2022-08-12T12:24:35.780Z ::1 GET /?fields=name%20slug%20image (304)
+2022-08-12T12:24:35.783Z ::1 POST / (200)
+2022-08-12T12:24:35.860Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2022-08-12T12:24:35.958Z ::1 GET /?fields=name%20slug%20image (304)
+2022-08-12T12:24:36.012Z ::1 GET /api/v2/orders?page=1&status=&paymentStatus=&limit=1000000000
+2022-08-12T12:24:36.109Z ::1 GET /?page=1&status=&paymentStatus=&limit=1000000000 (304)
+2022-08-12T12:24:53.354Z ::1 GET /api/v2/categories?fields=_id%20name%20slug
+2022-08-12T12:24:53.359Z ::1 GET /api/v2/products?search=&c=&b=&page=1&limit=10&getBrandFilter=1&getCategoryFilter=1&isShowHidden=0&fullTextSearch=1
+2022-08-12T12:24:53.536Z ::1 GET /?fields=_id%20name%20slug (200)
+2022-08-12T12:24:53.546Z ::1 GET /api/v2/brands?fields=_id%20name%20slug
+2022-08-12T12:24:53.595Z ::1 GET /?fields=_id%20name%20slug (200)
+2022-08-12T12:24:53.754Z ::1 GET /api/v2/products?search=&c=c00000000000000000000002&b=&page=1&limit=10&getBrandFilter=1&getCategoryFilter=1&isShowHidden=0&fullTextSearch=1
+2022-08-12T12:24:53.998Z ::1 GET /?search=&c=&b=&page=1&limit=10&getBrandFilter=1&getCategoryFilter=1&isShowHidden=0&fullTextSearch=1 (200)
+2022-08-12T12:24:54.185Z ::1 GET /?search=&c=c00000000000000000000002&b=&page=1&limit=10&getBrandFilter=1&getCategoryFilter=1&isShowHidden=0&fullTextSearch=1 (200)
+2022-08-12T12:24:58.499Z ::1 GET /api/v2/products/ipad-9-wifi-cellular?fields=_id%20name%20slug%20desc%20video%20overSpecs%20policies%20detailSpecs%20origin%20category%20brand%20tags%20views%20rate%20variants%20quantity%20warrantyPeriod%20isHide%20createdAt%20updatedAt
+2022-08-12T12:24:58.644Z ::1 GET /ipad-9-wifi-cellular?fields=_id%20name%20slug%20desc%20video%20overSpecs%20policies%20detailSpecs%20origin%20category%20brand%20tags%20views%20rate%20variants%20quantity%20warrantyPeriod%20isHide%20createdAt%20updatedAt (200)
+2022-08-12T12:25:01.638Z ::1 POST /api/v2/cart/add
+2022-08-12T12:25:01.832Z ::1 POST /add (200)
+2022-08-12T12:25:05.125Z ::1 GET /api/v2/account/addresses
+2022-08-12T12:25:05.212Z ::1 GET /addresses (200)
+2022-08-12T12:25:05.316Z ::1 POST /api/v2/user-behavior
+2022-08-12T12:25:05.320Z ::1 POST / (200)
+2022-08-12T12:25:12.388Z ::1 POST /api/v2/orders
+2022-08-12T12:25:12.763Z ::1 POST / (200)
+2022-08-12T12:25:12.921Z ::1 DELETE /api/v2/cart/d00000000000000000000128/0000000000844
+2022-08-12T12:25:13.109Z ::1 DELETE /d00000000000000000000128/0000000000844 (200)
+2022-08-12T12:25:15.280Z ::1 POST /api/v2/user-behavior
+2022-08-12T12:25:15.288Z ::1 POST / (200)

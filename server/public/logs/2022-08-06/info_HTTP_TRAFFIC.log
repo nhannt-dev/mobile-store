@@ -1,0 +1,41 @@
+
+2022-08-06T03:25:00.431Z ::1 GET /api/v2/products/search/suggest?keyword=
+2022-08-06T03:25:00.473Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2022-08-06T03:25:00.489Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2022-08-06T03:25:00.497Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2022-08-06T03:25:00.538Z ::1 GET /search/suggest?keyword= (200)
+2022-08-06T03:25:00.566Z ::1 GET /?fields=name%20slug%20image (200)
+2022-08-06T03:25:00.574Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (200)
+2022-08-06T03:25:00.755Z ::1 GET /?fields=name%20slug%20image (200)
+2022-08-06T03:25:03.019Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2022-08-06T03:25:03.549Z ::1 GET /api/v2/products/best-seller
+2022-08-06T03:25:03.635Z ::1 GET /best-seller (200)
+2022-08-06T03:25:04.870Z ::1 GET /?search=&page=1&limit=20&b=&c= (200)
+2022-08-06T03:28:45.533Z ::1 POST /api/v2/auth/send-otp
+2022-08-06T03:28:47.007Z ::1 POST /api/v2/auth/send-otp (500)
+2022-08-06T03:29:39.595Z ::1 GET /api/v2/products/search/suggest?keyword=
+2022-08-06T03:29:39.607Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2022-08-06T03:29:39.619Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2022-08-06T03:29:39.632Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2022-08-06T03:29:39.665Z ::1 GET /search/suggest?keyword= (304)
+2022-08-06T03:29:39.702Z ::1 GET /?fields=name%20slug%20image (304)
+2022-08-06T03:29:39.708Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2022-08-06T03:29:39.864Z ::1 GET /?fields=name%20slug%20image (304)
+2022-08-06T03:29:40.326Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2022-08-06T03:29:41.566Z ::1 GET /?search=&page=1&limit=20&b=&c= (304)
+2022-08-06T03:29:48.678Z ::1 GET /api/v2/products/search/suggest?keyword=
+2022-08-06T03:29:48.683Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2022-08-06T03:29:48.689Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2022-08-06T03:29:48.693Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2022-08-06T03:29:48.739Z ::1 GET /search/suggest?keyword= (304)
+2022-08-06T03:29:48.758Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (304)
+2022-08-06T03:29:48.824Z ::1 GET /?fields=name%20slug%20image (304)
+2022-08-06T03:29:48.959Z ::1 GET /?fields=name%20slug%20image (304)
+2022-08-06T03:29:52.530Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2022-08-06T03:29:53.190Z ::1 GET /api/v2/products/best-seller
+2022-08-06T03:29:53.283Z ::1 GET /best-seller (304)
+2022-08-06T03:29:53.458Z ::1 GET /?search=&page=1&limit=20&b=&c= (304)
+2022-08-06T03:30:24.193Z ::1 POST /api/v2/auth/send-otp
+2022-08-06T03:30:25.034Z ::1 POST /api/v2/auth/send-otp (500)
+2022-08-06T03:31:08.492Z ::1 POST /api/v2/auth/send-otp
+2022-08-06T03:31:09.446Z ::1 POST /api/v2/auth/send-otp (500)

@@ -1,0 +1,45 @@
+
+2022-08-25T04:15:46.745Z ::1 GET /api/v2/products/search/suggest?keyword=
+2022-08-25T04:15:46.771Z ::1 GET /api/v2/categories?fields=name%20slug%20image
+2022-08-25T04:15:46.784Z ::1 GET /api/v2/brands?fields=name%20slug%20image
+2022-08-25T04:15:46.797Z ::1 GET /api/v2/discounts?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image
+2022-08-25T04:15:46.822Z ::1 GET /search/suggest?keyword= (200)
+2022-08-25T04:15:46.846Z ::1 GET /?fields=name%20slug%20image (200)
+2022-08-25T04:15:46.856Z ::1 GET /?fields=name,desc,code,beginDate,endDate,quantity,unlimitedQty,discount,discountType,minimumTotal,maximumApplied,image (200)
+2022-08-25T04:15:46.999Z ::1 GET /?fields=name%20slug%20image (200)
+2022-08-25T04:15:47.081Z ::1 GET /api/v2/products?search=&page=1&limit=20&b=&c=
+2022-08-25T04:15:47.659Z ::1 GET /?search=&page=1&limit=20&b=&c= (200)
+2022-08-25T04:15:49.767Z ::1 GET /api/v2/products/best-seller
+2022-08-25T04:15:49.835Z ::1 GET /best-seller (200)
+2022-08-25T04:15:56.460Z ::1 POST /api/v2/auth/google
+2022-08-25T04:15:56.901Z ::1 POST /google (200)
+2022-08-25T04:15:58.109Z ::1 POST /api/v2/cart
+2022-08-25T04:15:58.169Z ::1 POST / (200)
+2022-08-25T04:15:58.217Z ::1 GET /api/v2/products/best-seller
+2022-08-25T04:15:58.277Z ::1 GET /best-seller (304)
+2022-08-25T04:16:08.413Z ::1 POST /api/v2/auth/google
+2022-08-25T04:16:08.466Z ::1 GET /api/v2/products/best-seller
+2022-08-25T04:16:08.539Z ::1 GET /best-seller (304)
+2022-08-25T04:16:08.638Z ::1 POST /google (200)
+2022-08-25T04:16:10.431Z ::1 POST /api/v2/cart
+2022-08-25T04:16:10.467Z ::1 GET /api/v2/products/best-seller
+2022-08-25T04:16:10.475Z ::1 POST / (200)
+2022-08-25T04:16:10.525Z ::1 GET /best-seller (304)
+2022-08-25T04:16:57.595Z ::1 GET /api/v2/account
+2022-08-25T04:16:57.696Z ::1 GET / (200)
+2022-08-25T04:17:20.607Z ::1 GET /api/v2/categories?fields=_id%20name%20slug
+2022-08-25T04:17:20.611Z ::1 GET /api/v2/products?search=&c=&b=&page=1&limit=10&getBrandFilter=1&getCategoryFilter=1&isShowHidden=0&fullTextSearch=1
+2022-08-25T04:17:20.785Z ::1 GET /?fields=_id%20name%20slug (200)
+2022-08-25T04:17:20.795Z ::1 GET /api/v2/brands?fields=_id%20name%20slug
+2022-08-25T04:17:20.838Z ::1 GET /?fields=_id%20name%20slug (200)
+2022-08-25T04:17:21.213Z ::1 GET /?search=&c=&b=&page=1&limit=10&getBrandFilter=1&getCategoryFilter=1&isShowHidden=0&fullTextSearch=1 (200)
+2022-08-25T04:17:21.955Z ::1 GET /api/v2/products?search=&c=c00000000000000000000003&b=&page=1&limit=10&getBrandFilter=1&getCategoryFilter=1&isShowHidden=0&fullTextSearch=1
+2022-08-25T04:17:22.476Z ::1 GET /?search=&c=c00000000000000000000003&b=&page=1&limit=10&getBrandFilter=1&getCategoryFilter=1&isShowHidden=0&fullTextSearch=1 (200)
+2022-08-25T04:17:36.026Z ::1 GET /api/v2/products?search=&c=c00000000000000000000003&b=&page=2&limit=10&getBrandFilter=1&getCategoryFilter=1&isShowHidden=0&fullTextSearch=1
+2022-08-25T04:17:36.521Z ::1 GET /?search=&c=c00000000000000000000003&b=&page=2&limit=10&getBrandFilter=1&getCategoryFilter=1&isShowHidden=0&fullTextSearch=1 (200)
+2022-08-25T04:17:51.109Z ::1 GET /api/v2/products?search=&c=c00000000000000000000003&b=b00000000000000000000024&page=2&limit=10&getBrandFilter=1&getCategoryFilter=1&isShowHidden=0&fullTextSearch=1
+2022-08-25T04:17:51.117Z ::1 GET /api/v2/products?search=&c=c00000000000000000000003&b=b00000000000000000000024&page=1&limit=10&getBrandFilter=1&getCategoryFilter=1&isShowHidden=0&fullTextSearch=1
+2022-08-25T04:17:51.438Z ::1 GET /?search=&c=c00000000000000000000003&b=b00000000000000000000024&page=2&limit=10&getBrandFilter=1&getCategoryFilter=1&isShowHidden=0&fullTextSearch=1 (200)
+2022-08-25T04:17:51.496Z ::1 GET /?search=&c=c00000000000000000000003&b=b00000000000000000000024&page=1&limit=10&getBrandFilter=1&getCategoryFilter=1&isShowHidden=0&fullTextSearch=1 (200)
+2022-08-25T04:17:51.499Z ::1 GET /api/v2/products?search=&c=c00000000000000000000003&b=b00000000000000000000024&page=1&limit=10&getBrandFilter=1&getCategoryFilter=1&isShowHidden=0&fullTextSearch=1
+2022-08-25T04:17:51.879Z ::1 GET /?search=&c=c00000000000000000000003&b=b00000000000000000000024&page=1&limit=10&getBrandFilter=1&getCategoryFilter=1&isShowHidden=0&fullTextSearch=1 (304)
